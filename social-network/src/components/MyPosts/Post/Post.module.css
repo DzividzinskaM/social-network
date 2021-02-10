@@ -1,0 +1,21 @@
+.post{
+    margin-left: 10px;
+    display:flex;
+    flex-direction: row;
+    width: 500px;
+}
+.userPostImg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.item{
+    color: black;
+    font-size: 18px;
+}
+
+.like 
+{
+    color: red;
+}

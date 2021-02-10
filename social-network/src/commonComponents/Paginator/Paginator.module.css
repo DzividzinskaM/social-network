@@ -1,0 +1,12 @@
+.paginator {
+    display: flex;
+    flex-direction: row;
+}
+
+.selectedItem {
+    font-weight: bold;
+}
+
+button:disabled {
+    background-color: #ff0000;
+}

@@ -1,0 +1,23 @@
+header {
+    background-color: green;
+    grid-area: header;
+}
+
+img {
+    padding-left: 15px;
+    width: 50px;
+    height: 50px;
+}
+
+.loginBlock {
+    float: right;
+}
+
+.login {
+    color: blue;
+}
+
+.login:hover {
+    color: blue;
+}
+
